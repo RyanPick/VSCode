@@ -26,4 +26,3 @@ def load_character():
     try:
         with open('character.json', 'r') as f:
             character_data = json.load(f)
-test
