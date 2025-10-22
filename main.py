@@ -58,4 +58,3 @@ def draw_sprite_idle(x, y):
     display.rectangle(x + 20, y + 20, 8, 8) # Left eye
     display.rectangle(x + 36, y + 20, 8, 8) # Right eye
     display.rectangle(x + 20, y + 40, 24, 6) # mouf
-    test
