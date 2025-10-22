@@ -1,0 +1,18 @@
+{
+  "name": "MechaMonarch",
+  "class": "Paladin",
+  "level": 5,
+  "hp_current": 42,
+  "hp_max": 42,
+  "hp_temp": 0,
+  "ac": 19,
+  "sprite_set": "paladin",
+  "abilities": {
+    "str": 18,
+    "dex": 10,
+    "con": 16,
+    "int": 8,
+    "wis": 12,
+    "cha": 16
+  }
+}
