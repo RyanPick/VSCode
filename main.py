@@ -71,7 +71,7 @@ def draw_sprite_hurt(x, y):
     display.line(x + 36, y + 20, x + 44, y + 28)
     display.line(x + 36, y + 28, x + 44, y + 20)
     display.rectangle(x + 20, y + 45, 24, 6) # (octothorp)sadface
-    display.text("Oof", x + 18, y + 5, scale=1) # Oof
+    display.text("Oof", x + 18, y + 5, scale=1) # oof
 
 # ------- Main Draw Func's -------
 def draw_home_screen(partial_update=False):
